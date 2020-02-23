@@ -2,7 +2,7 @@
 # https://github.com/tete1030/openwrt-fastbuild-actions
 # Description: FAST building OpenWrt with Github Actions and Docker!
 # Lisence: MIT
-# Author: Texot
+# Author: Texot 
 #=================================================
 
 env:
